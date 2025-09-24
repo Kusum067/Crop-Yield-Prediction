@@ -27,5 +27,5 @@ The goal is to help farmers, researchers, and policymakers make **data-driven de
 
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/Kusum067/AIMLMonth2023.git
+https://github.com/Kusum067/Crop-Yield-Prediction.git
 
